@@ -1,2 +1,2 @@
 # Barnaby-Desktop-Helper-For-Windows
-Your New Desktop Helper! Takes notes, cleans your junk files, See running programs, and more!
+Install Barnaby! Note! you will need to install barnaby.py requirements.txt to install barnaby! get install.bat and get started with Barnaby!
