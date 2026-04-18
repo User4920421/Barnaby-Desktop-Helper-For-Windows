@@ -1,2 +1,3 @@
 # Barnaby-Desktop-Helper-For-Windows
-Install Barnaby! Note! you will need to install barnaby.py, requirements.txt and python 3 to install barnaby! get install.bat and get started with Barnaby! If mircosoft edge or a broswer says for example "This file is unsafe" Just skip :) Also to uninstall, run uninstall000.bat to uninstall barnaby :D
+Install Barnaby! Note! you will need to install barnaby.py, requirements.txt and python 3 to install barnaby! get install.bat and get started with Barnaby! If mircosoft edge or a broswer says for example "This file is unsafe" Just skip :) Also to uninstall, run uninstall000.bat to uninstall barnaby :D And you can also run him on barnaby.py for a quick look if installed py 3. to have him as a forever pet I would be recommended to install the install.bat file since it installs it full 
+potentiel :) If you see a few things in Barnaby Desktop Helper that is not working, We will fix the problem :) Enjoy! 
